@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TokensApplication/static/css/main.5832a8d5.chunk.css",
+    "main.js": "/TokensApplication/static/js/main.0b22eb28.chunk.js",
+    "main.js.map": "/TokensApplication/static/js/main.0b22eb28.chunk.js.map",
+    "runtime-main.js": "/TokensApplication/static/js/runtime-main.2a8d7a17.js",
+    "runtime-main.js.map": "/TokensApplication/static/js/runtime-main.2a8d7a17.js.map",
+    "static/js/2.763b36cf.chunk.js": "/TokensApplication/static/js/2.763b36cf.chunk.js",
+    "static/js/2.763b36cf.chunk.js.map": "/TokensApplication/static/js/2.763b36cf.chunk.js.map",
+    "static/js/3.8b07cf26.chunk.js": "/TokensApplication/static/js/3.8b07cf26.chunk.js",
+    "static/js/3.8b07cf26.chunk.js.map": "/TokensApplication/static/js/3.8b07cf26.chunk.js.map",
+    "index.html": "/TokensApplication/index.html",
+    "static/css/main.5832a8d5.chunk.css.map": "/TokensApplication/static/css/main.5832a8d5.chunk.css.map",
+    "static/js/2.763b36cf.chunk.js.LICENSE.txt": "/TokensApplication/static/js/2.763b36cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a8d7a17.js",
+    "static/js/2.763b36cf.chunk.js",
+    "static/css/main.5832a8d5.chunk.css",
+    "static/js/main.0b22eb28.chunk.js"
+  ]
+}
