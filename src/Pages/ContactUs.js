@@ -1,5 +1,6 @@
 import React from 'react'
 import './styles/contactUs.css'
+import { Redirect } from 'react-router-dom'
 
 const ContactUs = () => {
     const user = localStorage.getItem('user') ? JSON.parse(localStorage.getItem('user')) : null;
