@@ -2,6 +2,10 @@ import React from 'react'
 import './styles/contactUs.css'
 
 const ContactUs = () => {
+    const user = localStorage.getItem('user') ? JSON.parse(localStorage.getItem('user')) : null;
+    if (!user) {
+        return <Redirect to={`/signin`} />
+      }  
     return (
         <>
         <div className="container-lg">
