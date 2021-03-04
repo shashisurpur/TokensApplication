@@ -23,6 +23,13 @@
     box-sizing: border-box;
     padding: 70px 30px;
 }
+.customeCard .icons .fa{
+    font-size: 16px;
+}
+.customeCard .title{
+    padding: 8px;
+   
+}
 .cardTitle{
     text-transform: uppercase;
     font-weight: bold;

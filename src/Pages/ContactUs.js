@@ -21,19 +21,37 @@ const ContactUs = () => {
                         <h5 className="card-title cardTitle text-center">Personal Details</h5>
                         <div className="card-text cardText text-left">
                             <dl className="row">
-                                <dt className="col-sm-5">Name</dt>
+                                 <dt className="col-sm-5">
+                                    <span className="icons"><i class="fa fa-male" aria-hidden="true"></i></span>
+                                    <span className="title">Name</span>
+                                 </dt> 
                                 <dd className="col-sm-5"> Shashidhar V Surpur</dd>
                             </dl>
                             <dl className="row">
-                                <dt className="col-sm-5">Address</dt>
+                                <dt className="col-sm-5">
+                                    <span className="icons">
+                                        <i class="fa fa-home" aria-hidden="true"></i>
+                                    </span>
+                                    <span className="title">Address</span>
+                                </dt>
                                 <dd className="col-sm-5"> Shashidhar V Surpur C/O Vasant R Surpur,Madhihal main road,Dharwad</dd>
                             </dl>
                             <dl className="row">
-                                <dt className="col-sm-5">Qualification</dt>
+                                <dt className="col-sm-5">
+                                    <span className="icons">
+                                        <i class="fa fa-graduation-cap" aria-hidden="true"></i>
+                                    </span>
+                                    <span className="title">Qualification</span>
+                                </dt>
                                 <dd className="col-sm-5">MCA</dd>
                             </dl>
                             <dl className="row">
-                                <dt className="col-sm-5">Skills</dt>
+                                <dt className="col-sm-5">
+                                    <span className="icons">
+                                        <i class="fa fa-free-code-camp" aria-hidden="true"></i>
+                                    </span>
+                                    <span className="title">Skills</span>
+                                </dt>
                                 <dd className="col-sm-5">
                                     Java Script <br/>
                                     React Js <br/>
@@ -51,15 +69,30 @@ const ContactUs = () => {
                     <div className="card-body">
                         <h5 className="card-title cardTitle text-center">Contacts </h5>
                         <dl className="row">
-						    <dt className="col-sm-6">Email</dt>
+						    <dt className="col-sm-6">
+                                <span className="icons">
+                                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                                </span>
+                                <span className="title">Email</span>
+                            </dt>
 						    <dd className="col-sm-6">shashisurpurv@gmail.com</dd>
 					    </dl>
                         <dl className="row">
-						    <dt className="col-sm-6">Mobile No</dt>
+						    <dt className="col-sm-6">
+                                <span className="icons">
+                                    <i class="fa fa-phone" aria-hidden="true"></i>
+                                </span>
+                                <span className="title">Mobile No</span>
+                            </dt>
 						    <dd className="col-sm-6">8792948307 </dd>
 					    </dl>
                         <dl className="row">
-						    <dt className="col-sm-6">What's app No</dt>
+						    <dt className="col-sm-6">
+                                <span className="icons">
+                                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                                </span>
+                                <span className="title">WhatsApp No</span>
+                            </dt>
 						    <dd className="col-sm-6">7411790739 </dd>
 					    </dl>
                     </div>
